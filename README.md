@@ -7,7 +7,7 @@ To run this app in your system, you should have `NodeJS` installed on your syste
 ## clone repository:
 To clone this repository into your system, run the command below in your desired terminal.
 
-`https://github.com/itsmanas-ra/A-Fun-Marvel-Quiz-CLI-Game.git`
+`git clone https://github.com/itsmanas-ra/A-Fun-Marvel-Quiz-CLI-Game.git`
 
 ## installation of required npm packages:
 To install npm packages you just have to run the command below and you are good to go.

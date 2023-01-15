@@ -1,5 +1,5 @@
 # How to run this app?
-To run this app in your browser, go to this game link [CLI Game](https://replit.com/@manasranjan96/fun-marvel-quiz-game?embed=true) , and click run button to play.
+To run this app in your browser, go to this game link [CLI Game](https://replit.com/@imanas96/fun-marvel-quiz-game?embed=true) , and click run button to play.
 
 # How to run this app in your system?
 To run this app in your system, you should have `NodeJS` installed on your system. If you havn't already installed go to this link: [Node.js](https://nodejs.org/en/) , and install as per your system. After doing this you just need to `clone` this repository into your sytem and need to install some required `npm` packages.
@@ -7,7 +7,7 @@ To run this app in your system, you should have `NodeJS` installed on your syste
 ## clone repository:
 To clone this repository into your system, run the command below in your desired terminal.
 
-`git clone https://github.com/itsmanas-ra/A-Fun-Marvel-Quiz-CLI-Game.git`
+`git clone https://github.com/codewithmanas/A-Fun-Marvel-Quiz-CLI-Game.git`
 
 ## installation of required npm packages:
 To install npm packages you just have to run the command below and you are good to go.

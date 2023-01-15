@@ -132,7 +132,7 @@ for (let i = 0; i < questions.length; i++) {
 function showScores() {
   log(chalk.bold.yellow("YAY! You SCORED: "), score);
   log("Check out the high scores, if you should be there ping me and I'll update it");
-  highScores.map(score => log(chalk.bold.blue(score.name), " : ", score.score))
+  highScores.map(score => log(chalk.bold.blue(score.name), " : ", score.score));
 }
 
 log("");
